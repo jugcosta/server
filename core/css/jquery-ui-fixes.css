@@ -140,3 +140,9 @@
 .ui-menu .ui-menu-item a {
 	padding: 6px;
 }
+
+.ui-button.primary {
+	background-color: $color-primary;
+	color: $color-primary-text;
+	border: 1px solid $color-primary-text;
+}
